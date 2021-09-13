@@ -1,0 +1,15 @@
+1) Summary
+2)Progect
+3)Component
+4)Version
+5)Severity
+6)Priority
+7)Status
+8)Author
+9)Assigned to
+10)Environment
+11)Description: 
+- Steps to reproduce
+- Actual Results
+- Expected Results
+12) Attachments
